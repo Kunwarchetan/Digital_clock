@@ -1,0 +1,22 @@
+body {
+    background: black;
+}
+
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%); translate: (-50%);
+    color: #17D4FE;
+    font-size: 150px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    color: white;
+    position: static;
+    font-size: 40px
+}
